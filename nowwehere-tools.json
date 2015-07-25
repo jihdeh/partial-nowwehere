@@ -1,17 +1,16 @@
-{
-  "JavaScript": {
-      "IDE": [
-          "SublimeText"
-      ]
-  },
-  "Python": {
-      "IDE": [
-          "pyCharm"
-      ]
-  },
-  "Ruby": {
-      "IDE": [
-          "RubyMine"
-      ]
-  }
-}
+[{
+    "category": "JavaScript",
+    "IDE": [
+        "SublimeText"
+    ]
+}, {
+    "category": "Pyhton",
+    "IDE": [
+        "pyCharm"
+    ]
+}, {
+    "category": "Ruby",
+    "IDE": [
+        "RubyMine"
+    ]
+}]
