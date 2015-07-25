@@ -1,0 +1,17 @@
+[{
+  "JavaScript": {
+      "IDE": [
+          "SublimeText"
+      ]
+  },
+  "Python": {
+      "IDE": [
+          "pyCharm"
+      ]
+  },
+  "Ruby": {
+      "IDE": [
+          "RubyMine"
+      ]
+  }
+}]
