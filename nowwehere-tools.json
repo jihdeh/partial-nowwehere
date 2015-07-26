@@ -15,8 +15,14 @@
     ]
 }, {
     "category": "C++",
-    "IDE": ["Ms Visual Studio"]
+    "IDE": ["Ms Visual Studio", "cLion"]
 }, {
-    "category": "IOS",
-    "IDE": ["Andriod Studio"]
+    "category": "Objective-C",
+    "IDE": ["Komodo IDE", "Eclipse", "NetBeans"]
+}, {
+    "category": "PHP",
+    "IDE": ["SublimeText", "PHPStorm", "Notepad++"]
+}, {
+    "category": "Ionic",
+    "IDE": ["SublimeText", "WebStorm", "Notepad++"]
 }]
