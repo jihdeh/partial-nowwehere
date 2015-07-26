@@ -2,33 +2,34 @@
     "category": "JavaScript",
     "IDE": [
         "SublimeText"
-    ]
+    ],
+    "about": "JavaScript is a scripting language"
 }, {
     "category": "Python",
     "IDE": [
         "pyCharm"
-    ]
+    ],
+    "about": "Pyhton is a cool language"
 }, {
     "category": "Ruby",
     "IDE": [
         "RubyMine"
-    ]
+    ],
+    "about": "Ruby is a agile language"
 }, {
     "category": "C++",
-    "IDE": ["Ms Visual Studio", "cLion"]
+    "IDE": ["Ms Visual Studio", "cLion"],
+    "about": "c++ is a native language"
 }, {
     "category": "Objective-C",
-    "IDE": ["Komodo IDE", "Eclipse", "NetBeans"]
+    "IDE": ["Komodo IDE", "Eclipse", "NetBeans"],
+    "about": "Objective-C is an ios language"
 }, {
     "category": "PHP",
-    "IDE": ["SublimeText", "PHPStorm", "Notepad++"]
+    "IDE": ["SublimeText", "PHPStorm", "Notepad++"],
+    "about": "php is a server side language"
 }, {
     "category": "Ionic",
-    "IDE": ["SublimeText", "WebStorm", "Notepad++"]
-}, {
-    "category": "PHP",
-    "IDE": ["SublimeText", "PHPStorm", "Notepad++"]
-}, {
-    "category": "Ionic",
-    "IDE": ["SublimeText", "WebStorm", "Notepad++"]
+    "IDE": ["SublimeText", "WebStorm", "Notepad++"],
+    "about": "Ionic is a hybrid mobile app language"
 }]
