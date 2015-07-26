@@ -4,7 +4,7 @@
         "SublimeText"
     ]
 }, {
-    "category": "Pyhton",
+    "category": "Python",
     "IDE": [
         "pyCharm"
     ]
@@ -13,4 +13,10 @@
     "IDE": [
         "RubyMine"
     ]
+}, {
+    "category": "C++",
+    "IDE": ["Ms Visual Studio"]
+}, {
+    "category": "IOS",
+    "IDE": ["Andriod Studio"]
 }]
