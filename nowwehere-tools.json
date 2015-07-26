@@ -25,4 +25,10 @@
 }, {
     "category": "Ionic",
     "IDE": ["SublimeText", "WebStorm", "Notepad++"]
+}, {
+    "category": "PHP",
+    "IDE": ["SublimeText", "PHPStorm", "Notepad++"]
+}, {
+    "category": "Ionic",
+    "IDE": ["SublimeText", "WebStorm", "Notepad++"]
 }]
