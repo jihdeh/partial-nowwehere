@@ -1,14 +1,17 @@
 [{
     "category": "JavaScript",
-    "IDE": [
-        "SublimeText"
-    ],
-    "about": "JavaScript is a scripting language"
+    "IDE": [{
+        "SublimeText3": "http://www.sublimetext.com/3"
+    }],
+    "about": "JavaScript is a scripting language",
+    "materials": [{
+      "Eloquent JavaScript": "http://eloquentjavascript.net"
+    }]
 }, {
     "category": "Python",
-    "IDE": [
-        "pyCharm"
-    ],
+    "IDE": [{
+        "pyCharm": "https://www.jetbrains.com/pycharm/download/"
+    }],
     "about": "Pyhton is a cool language"
 }, {
     "category": "Ruby",
