@@ -5,7 +5,7 @@
     }],
     "about": "JavaScript is a scripting language",
     "materials": [{
-      "Eloquent JavaScript": "http://eloquentjavascript.net"
+        "Eloquent JavaScript": "http://eloquentjavascript.net"
     }]
 }, {
     "category": "Python",
@@ -15,24 +15,42 @@
     "about": "Pyhton is a cool language"
 }, {
     "category": "Ruby",
-    "IDE": [
-        "RubyMine"
-    ],
+    "IDE": [{
+        "RubyMine": "https://www.jetbrains.com/ruby/"
+    }],
     "about": "Ruby is a agile language"
 }, {
     "category": "C++",
-    "IDE": ["Ms Visual Studio", "cLion"],
+    "IDE": [{
+        "Ms Visual Studio": "https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx"
+    }, {
+        "cLion": "https://www.jetbrains.com/clion/download/"
+    }],
     "about": "c++ is a native language"
 }, {
     "category": "Objective-C",
-    "IDE": ["Komodo IDE", "Eclipse", "NetBeans"],
+    "IDE": [{
+        "Komodo IDE": "http://komodoide.com/download/",
+    }, {
+        "Eclipse": "https://eclipse.org/downloads/"
+    }, {
+        "NetBeans": "https://netbeans.org/downloads/"
+    }],
     "about": "Objective-C is an ios language"
 }, {
     "category": "PHP",
-    "IDE": ["SublimeText", "PHPStorm", "Notepad++"],
+    "IDE": [{
+        "SublimeText3": "http://www.sublimetext.com/3"
+    }, {
+        "PHPStorm": "https://www.jetbrains.com/phpstorm/download/"
+    }, {
+        "Notepad++": "https://notepad-plus-plus.org/download/v6.8.html"
+    }],
     "about": "php is a server side language"
 }, {
     "category": "Ionic",
-    "IDE": ["SublimeText", "WebStorm", "Notepad++"],
+    "IDE": [{
+        "SublimeText3": "http://www.sublimetext.com/3"
+    }],
     "about": "Ionic is a hybrid mobile app language"
 }]
