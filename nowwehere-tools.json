@@ -14,7 +14,8 @@
     }],
     "about": "Pyhton is a cool language",
     "materials": [{
-        "Bento": "http://bento.io http://iwanttolearnruby.com/"
+        "Bento": "http://iwanttolearnruby.com/",
+        "Learnpython": "http://learnpython.org/en/"
     }]
 }, {
     "category": "Ruby",
