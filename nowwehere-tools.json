@@ -12,13 +12,19 @@
     "IDE": [{
         "pyCharm": "https://www.jetbrains.com/pycharm/download/"
     }],
-    "about": "Pyhton is a cool language"
+    "about": "Pyhton is a cool language",
+    "materials": [{
+        "Bento": "http://bento.io http://iwanttolearnruby.com/"
+    }]
 }, {
     "category": "Ruby",
     "IDE": [{
         "RubyMine": "https://www.jetbrains.com/ruby/"
     }],
-    "about": "Ruby is a agile language"
+    "about": "Ruby is a agile language",
+    "materials": [{
+        "I want to learn Ruby": "http://iwanttolearnruby.com/"
+    }]
 }, {
     "category": "C++",
     "IDE": [{
@@ -26,7 +32,11 @@
     }, {
         "cLion": "https://www.jetbrains.com/clion/download/"
     }],
-    "about": "c++ is a native language"
+    "about": "c++ is a native language",
+
+    "materials": [{
+        "cplusplus": "http://www.cplusplus.com/doc/tutorial/"
+    }]
 }, {
     "category": "Objective-C",
     "IDE": [{
@@ -36,7 +46,11 @@
     }, {
         "NetBeans": "https://netbeans.org/downloads/"
     }],
-    "about": "Objective-C is an ios language"
+    "about": "Objective-C is an ios language",
+
+    "materials": [{
+        "tryObjectiveC": "http://tryobjectivec.codeschool.com/"
+    }]
 }, {
     "category": "PHP",
     "IDE": [{
@@ -46,11 +60,19 @@
     }, {
         "Notepad++": "https://notepad-plus-plus.org/download/v6.8.html"
     }],
-    "about": "php is a server side language"
+    "about": "php is a server side language",
+
+    "materials": [{
+        "Learn Php": "http://www.learn-php.org/"
+    }]
 }, {
     "category": "Ionic",
     "IDE": [{
         "SublimeText3": "http://www.sublimetext.com/3"
     }],
-    "about": "Ionic is a hybrid mobile app language"
+    "about": "Ionic is a hybrid mobile app language",
+
+    "materials": [{
+        "Learn Ionic Framework": "http://learn.ionicframework.com/"
+    }]
 }]
