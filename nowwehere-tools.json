@@ -14,7 +14,8 @@
     }],
     "about": "Pyhton is a cool language",
     "materials": [{
-        "Bento": "http://iwanttolearnruby.com/",
+        "Bento": "http://iwanttolearnruby.com/"
+    }, {
         "Learnpython": "http://learnpython.org/en/"
     }]
 }, {
@@ -34,7 +35,6 @@
         "cLion": "https://www.jetbrains.com/clion/download/"
     }],
     "about": "c++ is a native language",
-
     "materials": [{
         "cplusplus": "http://www.cplusplus.com/doc/tutorial/"
     }]
@@ -48,7 +48,6 @@
         "NetBeans": "https://netbeans.org/downloads/"
     }],
     "about": "Objective-C is an ios language",
-
     "materials": [{
         "tryObjectiveC": "http://tryobjectivec.codeschool.com/"
     }]
@@ -62,7 +61,6 @@
         "Notepad++": "https://notepad-plus-plus.org/download/v6.8.html"
     }],
     "about": "php is a server side language",
-
     "materials": [{
         "Learn Php": "http://www.learn-php.org/"
     }]
@@ -72,7 +70,6 @@
         "SublimeText3": "http://www.sublimetext.com/3"
     }],
     "about": "Ionic is a hybrid mobile app language",
-
     "materials": [{
         "Learn Ionic Framework": "http://learn.ionicframework.com/"
     }]
